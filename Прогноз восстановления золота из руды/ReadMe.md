@@ -20,4 +20,4 @@
 9. Исследована метрика *AUC-ROC*
 
 **Стек:**  
-python, pandas, matplotlib, seaborn, sklearn, DecisionTree, RandomForest, LogisticRegression
+jupiter notebook, python, pandas, matplotlib, seaborn, sklearn, DecisionTree, RandomForest, LogisticRegression
