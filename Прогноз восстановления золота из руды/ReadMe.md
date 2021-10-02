@@ -19,5 +19,5 @@
 8. Удалось достичь максимально возможного значения *F1*-меры выше обозначенных 0.59
 9. Исследована метрика *AUC-ROC*
 
-*Стек:*  
+**Стек:**  
 python, pandas, matplotlib, seaborn, sklearn, DecisionTree, RandomForest, LogisticRegression
