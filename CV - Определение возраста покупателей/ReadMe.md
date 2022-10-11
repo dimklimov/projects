@@ -18,4 +18,4 @@ ML-engineer, аналитик данных, data scientist
 4. На тесте достигнута метрика MAE = 6.3377
    
 **Стек:**  
-jupiter notebook, python, pandas, matplotlib, seaborn, Keras, ResNet50
+jupiter notebook, python, pandas, matplotlib, seaborn, CV, Keras, ResNet50
