@@ -13,10 +13,10 @@ ML-engineer, data scientist, data аналитик
 2. Проведена предобработка, приведение к строчному, исключение знаков препинания, удаление дублей 
 3. Подготовили выборки
 4. Првели лемаизацию с nltk и pos-тегами и оцененку важность слов с помощью TF-IDF для анализа тональности
-5. Построены разные модели классификации с подбором лучших гиперпараметров через GridSearch
+5. Построены разные модели с подбором лучших гиперпараметров через GridSearch
 6. Достигнуты требуемые параметры метрики, отобрана лучшая модель с F1 = 0.7627
 7. Перепроверили производительность классификации лучшей модели с помощью ROC AUC = 0.8976
 
    
 **Стек:**  
-jupiter notebook, python, pandas, matplotlib, nltk, TfidfVectorizer, sklearn, LinearRegression, LightGBM, GridSearchCV
+jupiter notebook, python, pandas, matplotlib, NLP, nltk, TfidfVectorizer, sklearn, LinearRegression, LightGBM, GridSearchCV
